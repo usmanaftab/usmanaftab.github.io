@@ -2,7 +2,7 @@
 
 Check out my AI chat project: [AI Chat Application](https://usmanaftab.github.io/my-app/)
 
-![AI Chat Application Screenshot](path_to_screenshot.png)
+![AI Chat Application Screenshot](aichat.png)
 
 ## About Me
 
