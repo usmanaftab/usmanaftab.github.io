@@ -1,6 +1,6 @@
 # AI Chat Project
 
-Check out my AI chat project: [AI Chat Application](https://usmanaftab.github.io/my-app/)
+Check out my AI chat project: [AI Chat Application](https://usmanaftab.github.io/aichat/)
 
 ![AI Chat Application Screenshot](aichat.png)
 
@@ -29,5 +29,5 @@ I am a Software Engineer with experience in modern full stack application develo
 
 ## Contact
 
-- **LinkedIn:** https://www.linkedin.com/in/usmanaftab1/
-- **Email:** usman.aftab@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/usmanaftab1/](https://www.linkedin.com/in/usmanaftab1/)
+- **Email:** [usman.aftab@gmail.com](mailto:usman.aftab@gmail.com)
