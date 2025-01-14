@@ -11,7 +11,7 @@ I am a Software Engineer with experience in modern full stack application develo
 ## Experience
 
 - **Software Engieer** at **Micorsoft Ireland**
-- - **Software Engieer** at **Amazon Ireland**
+- **Software Engieer** at **Amazon Ireland**
 
 ## Education
 
