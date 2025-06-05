@@ -1,6 +1,6 @@
 # AI Chat Project
 
-Check out my AI chat project: [AI Chat Application](https://usmanaftab.github.io/aichat/)
+Check out my AI chat project: [AI Chat Application](https://ai.usmanaftab.com)
 
 ![AI Chat Application Screenshot](aichat.png)
 
